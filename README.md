@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+![]https://giphy.com/gifs/coffee-morning-goodmorning-kYNVwkyB3jkauFJrZA
+
 **MathGuti42/MathGuti42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
