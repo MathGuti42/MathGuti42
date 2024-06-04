@@ -1,4 +1,6 @@
-## Hi there, I'm Teacher Matheus Gutierrez 🖖
+## Olá galera, eu sou o professor Matheus Gutierrez 🖖
+
+***Bem-vindo ao meu perfil**
 
 ![](https://conteudo.imguol.com.br/c/entretenimento/80/2017/05/25/o-guia-do-mochileiro-das-galaxias---filme-1495693052943_v2_4x3.jpg)
 
